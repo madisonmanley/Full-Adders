@@ -232,7 +232,7 @@ with open('3FALU.p', 'rb') as f:
     J = pickle.load(f)
 
 
-# Testing matrix for addition and subtraction 
+# Testing matrix for reverse carry sum 
     
 test = [[-1,-1,-1,-1,0,248,360,472,584,696,808,-1],
         [1,-1,-1,-1,920,-1,-1,-1,-1,-1,-1,-1],
