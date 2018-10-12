@@ -387,6 +387,3 @@ for s in range(len(step_num)):
         del avgerror[:]
 
 
-
-
-
